@@ -1,6 +1,6 @@
 # Genetic Algorithm Pathfinding
 
-This repository contains a Python implementation of a genetic algorithm to solve a pathfinding problem on a 2D grid. The goal is to navigate from starting points on the grid to maximize a score based on specific rules. This is actually a tool I used to help me play the [Muterra](https://muterra.in/) Discord Game - it was by no means a winner, but was definitely a time saver and fun project
+This repository contains a Python implementation of a genetic algorithm to solve a pathfinding problem on a 2D grid. The goal is to navigate from starting points on the grid to maximize a score based on specific rules. This is actually a tool I used to help me play the [Muterra](https://muterra.in/) [Discord Game](https://peakd.com/hive-196251/@muterra/muterra-discord-game-season-4) - it was by no means a winner, but was definitely a time saver and fun project
 
 ## Code Overview
 
